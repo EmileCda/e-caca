@@ -1,0 +1,5 @@
+CREATE TABLE `eCommerce_fil-rouge_db`.`user` ( `id` INT NOT NULL AUTO_INCREMENT , `nom` VARCHAR(255) NOT NULL , `prenom` VARCHAR(255) NOT NULL , `date_naissance` DATE NOT NULL , `email` VARCHAR(255) NOT NULL , `password` TINYBLOB NOT NULL , `telephone` VARCHAR(15) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
+
+
+user 
+ma 
